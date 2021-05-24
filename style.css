@@ -1,0 +1,97 @@
+table {
+   background-color:  #F0FFFF;
+	 align-items: center;
+}
+	
+ th{
+  text-align : left;
+  padding: 15px;
+  background-color: gray ;
+  color: white;
+ font-family: "Times New Roman", Times, serif;
+	border-bottom: 1px solid #ddd;
+}
+
+
+td{
+ text-align : left;
+ padding: 15px;
+font-family: "Times New Roman", Times, serif;
+ border-bottom: 1px solid #ddd;
+}
+
+
+
+
+
+
+
+
+
+#menue {
+          width:100%;
+					height:40px;
+					background-color: Gray;
+					padding-top: 12px;
+ }
+ #menue a{
+           color:#ffffff;
+					 font-family: "Times New Roman", Times, serif;
+					 font-size: 18px;
+					 text-decoration:none;
+					 font-weight: 800px;
+					 
+					 padding-left: 20px;
+					 padding-right: 20px;
+}
+
+#menue a:hover{
+                color:	lightgray;
+}
+
+
+
+
+body {
+background-color : LightGray;
+}
+			
+p {
+ font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+color:gray;
+ text-align: center;
+  font-family: "Times New Roman", Times, serif;
+		 font-size: 50px;
+}
+
+
+button {
+  background-color: gray;
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+p{
+text-align : center;
+}
+h2
+{
+text-align : center;
+
+img {
+padding-left :100px;
+}
+
+
+
+	
